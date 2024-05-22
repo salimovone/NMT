@@ -1,0 +1,64 @@
+[
+    {
+        "id": 0,
+        "name": "shifoxona nomi",
+        "address": "manzili orientr yozsenam boluradi",
+        "description": "shifoxona haqida ozgina ma'lumot",
+        "tel": "telefon raqami hoxlasern number tipida yoz",
+        "workTime": "ish vaqtlari",
+        "img": "rasm url",
+        "doctors": [
+            {
+                "id": 0,
+                "name": "ism familiya",
+                "specialty": "mutaxasisligi masalan lor",
+                "tel": "telefon raqami hoxlasern number tipida yoz",
+                "about": "shifokor haqida ma'lumot",
+                "img": "rasm url",
+                "freeTime": "bo'sh vaqtlari",
+                "status": "ish holati masalan: ko'rikda, bemor kutyapti, dam olyapti, tushlikda"
+            },
+            {
+                "id": 1,
+                "name": "ism familiya",
+                "specialty": "mutaxasisligi masalan lor",
+                "tel": "telefon raqami hoxlasern number tipida yoz",
+                "about": "shifokor haqida ma'lumot",
+                "img": "rasm url",
+                "freeTime": "bo'sh vaqtlari",
+                "status": "ish holati masalan: ko'rikda, bemor kutyapti, dam olyapti, tushlikda"
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "shifoxona nomi",
+        "address": "manzili orientr yozsenam boluradi",
+        "description": "shifoxona haqida ozgina ma'lumot",
+        "tel": "telefon raqami hoxlasern number tipida yoz",
+        "workTime": "ish vaqtlari",
+        "img": "rasm url",
+        "doctors": [
+            {
+                "id": 0,
+                "name": "ism familiya",
+                "specialty": "mutaxasisligi masalan lor",
+                "tel": "telefon raqami hoxlasern number tipida yoz",
+                "about": "shifokor haqida ma'lumot",
+                "img": "rasm url",
+                "freeTime": "bo'sh vaqtlari",
+                "status": "ish holati masalan: ko'rikda, bemor kutyapti, dam olyapti, tushlikda"
+            },
+            {
+                "id": 1,
+                "name": "ism familiya",
+                "specialty": "mutaxasisligi masalan lor",
+                "tel": "telefon raqami hoxlasern number tipida yoz",
+                "about": "shifokor haqida ma'lumot",
+                "img": "rasm url",
+                "freeTime": "bo'sh vaqtlari",
+                "status": "ish holati masalan: ko'rikda, bemor kutyapti, dam olyapti, tushlikda"
+            }
+        ]
+    }
+]
